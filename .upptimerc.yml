@@ -5,10 +5,13 @@ sites:
   - name: Website
     url: https://zesty.co
     icon: https://zesty.co/wp-content/uploads/2020/12/cropped-zesty_favicon-2-120x120.png
+    maxResponseTime: 1000
   - name: Dashboard
     url: $ZESTY_APP
+    maxResponseTime: 1000
   - name: API
     url: $ZESTY_API
+    maxResponseTime: 1000
     expectedStatusCodes:
       - 200
       - 403
