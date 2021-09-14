@@ -43,18 +43,19 @@
     "url": "$ZESTY_API",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "api",
-    "status": "up",
+    "status": "degraded",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 358,
-    "timeDay": 247,
-    "timeWeek": 405,
-    "timeMonth": 362,
-    "timeYear": 358,
+    "time": 365,
+    "timeDay": 746,
+    "timeWeek": 510,
+    "timeMonth": 389,
+    "timeYear": 365,
     "dailyMinutesDown": {
+      "2021-09-14": 0,
       "2021-07-01": 9
     }
   }
