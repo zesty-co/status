@@ -1,7 +1,7 @@
 url: $ZESTY_API
-status: up
+status: degraded
 code: 403
-responseTime: 124
-lastUpdated: 2021-09-18T23:03:53.667Z
+responseTime: 1486
+lastUpdated: 2021-09-19T05:33:09.521Z
 startTime: Thu May 13 2021 13:03:59 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
