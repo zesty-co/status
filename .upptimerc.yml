@@ -11,7 +11,7 @@ sites:
     maxResponseTime: 1000
   - name: API
     url: $ZESTY_API
-    maxResponseTime: 1000
+    maxResponseTime: 2000
     expectedStatusCodes:
       - 200
       - 403
