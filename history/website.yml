@@ -1,7 +1,7 @@
 url: https://zesty.co
-status: degraded
-code: 504
-responseTime: 10214
-lastUpdated: 2025-02-23T23:08:10.287Z
+status: up
+code: 200
+responseTime: 953
+lastUpdated: 2025-02-23T23:15:17.301Z
 startTime: 2021-05-13T13:03:58.000Z
 generator: Upptime <https://github.com/upptime/upptime>
