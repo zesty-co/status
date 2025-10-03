@@ -1,7 +1,7 @@
 url: $ZESTY_APP
-status: up
+status: degraded
 code: 200
-responseTime: 374
-lastUpdated: 2025-10-02T23:08:06.602Z
+responseTime: 3131
+lastUpdated: 2025-10-03T07:30:50.758Z
 startTime: 2021-05-13T13:03:58.000Z
 generator: Upptime <https://github.com/upptime/upptime>
