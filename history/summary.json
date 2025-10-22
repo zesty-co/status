@@ -11,10 +11,10 @@
     "uptimeMonth": "99.78%",
     "uptimeYear": "99.74%",
     "time": 789,
-    "timeDay": 220,
-    "timeWeek": 403,
-    "timeMonth": 463,
-    "timeYear": 888,
+    "timeDay": 539,
+    "timeWeek": 393,
+    "timeMonth": 460,
+    "timeYear": 889,
     "dailyMinutesDown": {
       "2025-10-15": 95,
       "2025-05-02": 26,
@@ -34,16 +34,18 @@
     "slug": "dashboard",
     "status": "up",
     "uptime": "99.69%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "98.90%",
+    "uptimeWeek": "99.84%",
+    "uptimeMonth": "99.96%",
     "uptimeYear": "100.00%",
-    "time": 298,
-    "timeDay": 358,
-    "timeWeek": 305,
-    "timeMonth": 409,
-    "timeYear": 269,
-    "dailyMinutesDown": {}
+    "time": 297,
+    "timeDay": 463,
+    "timeWeek": 362,
+    "timeMonth": 419,
+    "timeYear": 270,
+    "dailyMinutesDown": {
+      "2025-10-21": 16
+    }
   },
   {
     "name": "API",
@@ -56,10 +58,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 435,
-    "timeDay": 578,
-    "timeWeek": 421,
-    "timeMonth": 440,
+    "time": 434,
+    "timeDay": 401,
+    "timeWeek": 437,
+    "timeMonth": 438,
     "timeYear": 443,
     "dailyMinutesDown": {}
   }
