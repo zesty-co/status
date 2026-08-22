@@ -51,19 +51,19 @@
     "url": "$ZESTY_API",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "api",
-    "status": "degraded",
+    "status": "up",
     "uptime": "99.83%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "98.51%",
+    "uptimeWeek": "99.79%",
+    "uptimeMonth": "99.95%",
     "uptimeYear": "100.00%",
     "time": 432,
-    "timeDay": 2460,
-    "timeWeek": 852,
-    "timeMonth": 534,
+    "timeDay": 1782,
+    "timeWeek": 805,
+    "timeMonth": 531,
     "timeYear": 422,
     "dailyMinutesDown": {
-      "2026-08-22": 0
+      "2026-08-22": 21
     }
   }
 ]
